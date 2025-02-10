@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
-<package format="3">
+<package>
   <name>usb_cam</name>
   <version>0.3.7</version>
   <description>A ROS Driver for V4L USB Cameras</description>
@@ -14,8 +12,6 @@
   <license>BSD</license>
 
   <url type="website">http://wiki.ros.org/usb_cam</url>
-  <url type="bugtracker">https://github.com/ros-drivers/usb_cam/issues</url>
-  <url type="repository">https://github.com/ros-drivers/usb_cam</url>
   <url type="bugtracker">https://github.com/ros-drivers/usb_cam/issues</url>
   <url type="repository">https://github.com/ros-drivers/usb_cam</url>
 
